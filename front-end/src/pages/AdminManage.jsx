@@ -1,7 +1,4 @@
-import React, {
-useState,
-// useEffect,
-} from 'react';
+import React, { useState } from 'react';
 
 import AdminForm from '../components/AdminForm';
 import AdminNavBar from '../components/AdminNavBar/AdminNavBar';
