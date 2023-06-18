@@ -96,10 +96,10 @@ Fluxo da Pessoa Vendedora que possui:
 <details>
   <summary><strong>Devs responsáveis</strong></summary>
 
-- [@FP-Coding](https://github.com/FP-Coding)
-- [@isaacost](https://github.com/isaacost)
-- [@laisOmena](https://github.com/laisOmena)
-- [@Murilo-MRS](https://github.com/Murilo-MRS)
+- [@Jeffo182](https://github.com/Jeffo182)
+- [@Pedroicn](https://github.com/Pedroicn)
+- [@MMassara](https://github.com/MMassara)
+- [@danielcampl](https://github.com/danielcampl)
 
 </details>
 <!-- Olá, Tryber!
